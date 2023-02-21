@@ -1,0 +1,12 @@
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.deps.json
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.dll
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\bin\Debug\net6.0\Onion.Domain.pdb
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.csproj.AssemblyReference.cache
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.AssemblyInfoInputs.cache
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.AssemblyInfo.cs
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.dll
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\refint\Onion.Domain.dll
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\Onion.Domain.pdb
+C:\Users\Ulvi\Desktop\Projects\Onion\Core\Onion.Domain\obj\Debug\net6.0\ref\Onion.Domain.dll
